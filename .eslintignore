@@ -1,0 +1,4 @@
+# eslint默认不会检查node_modules里面的代码，所以这里添加不检查打包后dist下的代码
+/dist
+/src/indexStaic/javascript/plugin/*.js
+/src/indexStaic/javascript/common/*.js

@@ -1,0 +1,15 @@
+.idea
+.project
+.settings
+.buildpath
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+node_modules
+npm-debug.log
+bower_components
+
+src/image.html
+src/indexStatic/image/new_logo.png
+dist/indexStatic/image/new_logo.png
