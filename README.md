@@ -1,10 +1,7 @@
-
-- [项目描述](#%E9%A1%B9%E7%9B%AE%E6%8F%8F%E8%BF%B0)
-- [使用方法](#%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)
-- [目录结构](#%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84)
-
-## 项目描述
-  
+# gulp-cli-ie8
+  ![jquery](https://img.shields.io/badge/jquery-1.8.3-blue.svg?style=flat-square)
+  ![require](https://img.shields.io/badge/require-2.3.3-red.svg)
+  ![juicer](https://img.shields.io/badge/juicer-0.6.14-orange.svg)
  
 ## 使用方法
 
